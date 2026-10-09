@@ -41,4 +41,21 @@
 ├── notebooks/
 │   └── iowa_state_vs_byu.ipynb <-- Full Python pipeline (Scraping, Monte Carlo, xTD)
 └── outputs/
-    └── visualizations/         <-- Exported passing networks, heatmaps, and simulation plots
+    └── visualizations/         <-- Exported passing networks, heatmaps, and simulation plots 
+```
+
+🚀 Quick Start
+* Clone the repository:
+Bash
+git clone [https://github.com/joseangelm49144/nfl-ncaa-tactical-analytics.git](https://github.com/joseangelm49144/nfl-ncaa-tactical-analytics.git)
+cd nfl-ncaa-tactical-analytics
+* Install dependencies:
+Bash
+pip install pandas numpy matplotlib seaborn networkx requests beautifulsoup4
+* Run the analysis pipeline:
+Execute the notebook inside notebooks/ to generate tactical metrics and export optimized social media deliverables.
+
+👤 Author
+Jose Angel Mercado — Financial Analyst & Data Analyst
+X / Twitter: @joseangelm49144
+GitHub: joseangelm49144
